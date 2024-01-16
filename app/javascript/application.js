@@ -3,5 +3,5 @@ import "@hotwired/turbo-rails"
 import "controllers"
 
 // app/javascript/application.js
-import "bootstrap"
-import "@popperjs/core"
+// import "bootstrap"
+// import "@popperjs/core"

@@ -47,6 +47,7 @@ gem "sassc-rails"
 
 gem "dotenv-rails"
 
+gem "cloudinary"
 # Gemfile
 # [...]
 gem "bootstrap", "~> 5.2"
